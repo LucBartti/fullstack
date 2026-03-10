@@ -1,0 +1,10 @@
+.titulo1{color:red;}
+.coluna1{color:red;}
+.coluna2{color:red;}
+.coluna3{color:red;}
+.coluna4{color:red;}
+
+.flex-container{
+    display: flex;
+    justify-content:space-between;
+}
